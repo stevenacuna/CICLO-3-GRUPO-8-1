@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.co.HolaG06ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.778 s - in com.co.HolaG06ApplicationTests
